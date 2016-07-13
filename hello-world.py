@@ -12,7 +12,7 @@ app = QApplication(sys.argv)
 
 # Creamos una etiqueta y la mostramos
 
-label = QLabel("<p style='color:red; font-size:40px;'>Hola Mundo</p>")
+label = QLabel("<p>Hola Mundo</p>")
 label.show()
 
 app.exec_()
