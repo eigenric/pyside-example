@@ -6,7 +6,7 @@ Just an Qt HelloWorldApp using PySide and python3
 
 ```shell
 
-	$ mkvirtualenv venv
+	$ mkvirtualenv pyside-example
 	$ pip install -r requirements.txt
 	$ python install-pyside.py
 ```
